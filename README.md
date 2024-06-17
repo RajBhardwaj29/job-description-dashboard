@@ -10,23 +10,11 @@ Targeted Job Search: Identify jobs that best suit your skills and career aspirat
 Informed Decision Making: Gain valuable insights into specific job requirements and trends.
 Market Awareness: Stay up-to-date on the evolving job market landscape.
 
-How to Use:
-
-Clone the Repository:
-Bash
-git clone https://github.com/AgarwalBhavya/job-description-dashboard.git
-Install Dependencies (if necessary):
-Bash
-cd job-description-dashboard
-pip install -r requirements.txt
 Explore Job Trends:
 Use the provided interface to select job titles, skills, locations, or other filtering criteria.
 Interact with the visualizations to understand the trends in job descriptions.
 Additional Notes:
 
-Consider mentioning the data source(s) used for your dashboard.
-If your project has specific technical aspects, feel free to briefly describe them.
-Welcome contributions and suggestions for improvement through pull requests.
 Example Usage:
 
 User selects "Software Engineer" as the job title.
